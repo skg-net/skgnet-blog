@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://blog.skgnet.dev"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Weblog of Senthil Kumar Ganesan"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -14,10 +14,10 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+title = "I'm Senthil Kumar Ganesan"
+author = "Senthil Kumar Ganesan"
+description = "Call me Senthil"
+profilePicture = "images/profile.jpeg"
 keywords = ""
 favicon = "favicons/"
 customCss = []
@@ -34,12 +34,12 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/skgnet/"
 
 [[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/skg-net/"
 
 [[params.socialIcons]]
 icon = "fa-instagram"
@@ -49,7 +49,7 @@ url = "https://www.instagram.com/"
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:skg@skgnet.dev"
 
 ## Menu items
 
